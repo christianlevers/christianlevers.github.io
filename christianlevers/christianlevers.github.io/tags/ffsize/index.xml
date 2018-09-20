@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FFSize on Christian Levers Research</title>
-    <link>https://christianlevers.github.io/tags/ffsize/</link>
+    <link>/tags/ffsize/</link>
     <description>Recent content in FFSize on Christian Levers Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018 Christian Levers</copyright>
     <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://christianlevers.github.io/tags/ffsize/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/ffsize/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is FFSize - The purpose for looking at size-related characteristics of agriculture</title>
-      <link>https://christianlevers.github.io/post/ffsize_blog1/</link>
+      <link>/post/ffsize_blog1/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://christianlevers.github.io/post/ffsize_blog1/</guid>
+      <guid>/post/ffsize_blog1/</guid>
       <description>Why is farm and field size important? Farm size is clearly assumed to be linked to environmental, economic, and human wellbeing, and knowledge about farm size distributions can foster the development of actions to address food security and agricultural sustainability. Yet, farm size data (e.g., from censuses or field work) are costly to collect and prone to bias, hampering the availability of consistent data sets covering large areas. Field size data as a proxy for farm size is promising to overcome this limitation, as it facilitates the understanding of field-level farm management and can be mapped more reliably over larger areas via remote sensing techniques.</description>
     </item>
     
