@@ -7,10 +7,12 @@ date = 2017-09-20T00:00:00
 active = true
 
 title = "Skills"
+
 subtitle = ""
 
+	
 # Order that this section will appear in.
-weight = 7
+weight = 8
 
 # Showcase personal skills or business features.
 # 
@@ -22,21 +24,43 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics & Analysis"
+  description = "80%"  
+  
+[[feature]]
+  icon = "map"
+  icon_pack = "fas"
+  name = "Mapping"
+  description = "80%"
+
+[[feature]]
+  icon = "globe-americas"
+  icon_pack = "fas"
+  name = "Land-System Science"
+  description = "90%"
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = "10%"
-
 +++
+
+## Languages
+German (native), English (proficient), Spanish (basic)
+
+## Software
+ArcGIS, QGIS, R, SPSS, Python, GeoDa
+
+## Technical
+Data Harmonisation & Analysis, Geographic Information Systems (GIS), Machine Learning, Statistical Analyses
+
+## 

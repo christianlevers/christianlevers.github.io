@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 4
 
 # Content.
 # Display content from the following folder.
@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 
@@ -34,12 +34,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
-
+  name = "Current projects"
+  tag = "Current projects"
+  
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Completed projects"
+  tag = "Completed projects"
+
+#[[filter]]
+#  name = "Other"
+#  tag = "Demo"
 
 +++
 
