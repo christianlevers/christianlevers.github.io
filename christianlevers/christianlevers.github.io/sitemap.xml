@@ -10,7 +10,7 @@
     
     <url>
     
-      <loc>/post/ffsize_blog1/</loc>
+      <loc>https://christianlevers.github.io/post/ffsize_blog1/</loc>
       <lastmod>2018-09-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -18,7 +18,7 @@
     
     <url>
     
-      <loc>/extras/cl_cv/</loc>
+      <loc>https://christianlevers.github.io/extras/cl_cv/</loc>
       <lastmod>2018-09-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -26,7 +26,7 @@
     
     <url>
     
-      <loc>/extras/publication_list/</loc>
+      <loc>https://christianlevers.github.io/extras/publication_list/</loc>
       <lastmod>2018-09-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -34,7 +34,7 @@
     
     <url>
     
-      <loc>/project/ffsize/</loc>
+      <loc>https://christianlevers.github.io/project/ffsize/</loc>
       <lastmod>2018-09-16T00:00:00-07:00</lastmod>
     </url>
     
@@ -42,7 +42,7 @@
     
     <url>
     
-      <loc>/_not_used/cl_cv/</loc>
+      <loc>https://christianlevers.github.io/_not_used/cl_cv/</loc>
       <lastmod>2018-08-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,15 +50,7 @@
     
     <url>
     
-      <loc>/privacy/</loc>
-      <lastmod>2018-06-28T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/_not_used/_dz_news/</loc>
+      <loc>https://christianlevers.github.io/_not_used/_dz_news/</loc>
       <lastmod>2018-02-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -66,7 +58,7 @@
     
     <url>
     
-      <loc>/_not_used/_dz_downloads/</loc>
+      <loc>https://christianlevers.github.io/_not_used/_dz_downloads/</loc>
       <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     </url>
     
@@ -74,7 +66,7 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
+      <loc>https://christianlevers.github.io/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -82,7 +74,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://christianlevers.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -90,7 +82,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://christianlevers.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -98,7 +90,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://christianlevers.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -106,7 +98,7 @@
     
     <url>
     
-      <loc>/tags/all/</loc>
+      <loc>https://christianlevers.github.io/tags/all/</loc>
       <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -115,7 +107,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://christianlevers.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -123,7 +115,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://christianlevers.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -132,7 +124,7 @@
     
     <url>
     
-      <loc>/tags/current-projects/</loc>
+      <loc>https://christianlevers.github.io/tags/current-projects/</loc>
       <lastmod>2018-09-16T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -141,7 +133,7 @@
     
     <url>
     
-      <loc>/extras/</loc>
+      <loc>https://christianlevers.github.io/extras/</loc>
       <lastmod>2018-09-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -150,7 +142,7 @@
     
     <url>
     
-      <loc>/tags/ffsize/</loc>
+      <loc>https://christianlevers.github.io/tags/ffsize/</loc>
       <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -159,7 +151,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://christianlevers.github.io/project/</loc>
       <lastmod>2018-09-16T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -168,7 +160,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://christianlevers.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -176,7 +168,7 @@
     
     <url>
     
-      <loc>/tags/recent-posts/</loc>
+      <loc>https://christianlevers.github.io/tags/recent-posts/</loc>
       <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -185,7 +177,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://christianlevers.github.io/tags/</loc>
       <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -194,7 +186,7 @@
     
     <url>
     
-      <loc>/_not_used/</loc>
+      <loc>https://christianlevers.github.io/_not_used/</loc>
       <lastmod>2018-09-17T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>

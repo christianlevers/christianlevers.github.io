@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Christian Levers Research</title>
-    <link>/project/</link>
+    <link>https://christianlevers.github.io/project/</link>
     <description>Recent content in Projects on Christian Levers Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018 Christian Levers</copyright>
     <lastBuildDate>Sun, 16 Sep 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christianlevers.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FFSize (PI)</title>
-      <link>/project/ffsize/</link>
+      <link>https://christianlevers.github.io/project/ffsize/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>/project/ffsize/</guid>
+      <guid>https://christianlevers.github.io/project/ffsize/</guid>
       <description>Why farm and field size matters: Exploring their role for food security and sustainable agriculture in South America
 The project is funded through the European Union&amp;rsquo;s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 796451.
 For news on the project, please have a look at the blog using the &amp;ldquo;FFSize&amp;rdquo; filter. Summary

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extras on Christian Levers Research</title>
-    <link>/extras/</link>
+    <link>https://christianlevers.github.io/extras/</link>
     <description>Recent content in Extras on Christian Levers Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2018 Christian Levers</copyright>
     <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/extras/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christianlevers.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Christian Levers</title>
-      <link>/extras/cl_cv/</link>
+      <link>https://christianlevers.github.io/extras/cl_cv/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/extras/cl_cv/</guid>
+      <guid>https://christianlevers.github.io/extras/cl_cv/</guid>
       <description>Contact - Education - Career - Projects - Awards - Professional activities
 Contact details Dr. Christian Levers
 Website UFZ | Website UBC
@@ -28,10 +28,10 @@ Principal affiliation
     
     <item>
       <title>Publications</title>
-      <link>/extras/publication_list/</link>
+      <link>https://christianlevers.github.io/extras/publication_list/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/extras/publication_list/</guid>
+      <guid>https://christianlevers.github.io/extras/publication_list/</guid>
       <description>You can check out my research contributions on GoogleScholar, ORCID, or ResearcherID (L-9204-2013).
 If you cannot access the publications via the provided links, do not hesitate to contact me per email.
 Peer-reviewed journal articles in press - 2018 - 2017 - 2016 - 2015 - 2014 - pre 2014 - under review
