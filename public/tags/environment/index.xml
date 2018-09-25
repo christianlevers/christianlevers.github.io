@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment on Christian Levers Research</title>
+    <link>/tags/environment/</link>
+    <description>Recent content in Environment on Christian Levers Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Christian Levers</copyright>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FFSize</title>
+      <link>/project/ffsize/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/ffsize/</guid>
+      <description>Agriculture is the dominant land use on Earth, covering approximately one third of its terrestrial surface, and crucial for sustaining human life by providing food, feed, and bioenergy. The importance of agriculture will increase over the next decades as the global demand for agricultural products is expected to rise due to continuing population growth, shifts in consumption, and the increasing role of bioenergy. Agricultural activities incur immense environmental costs such as widespread degradation and loss of ecosystems and biodiversity, high greenhouse gas emissions, and alterations of global nitrogen and phosphorus cycles, and also societal costs by increasing social competition and disparities.</description>
+    </item>
+    
+  </channel>
+</rss>

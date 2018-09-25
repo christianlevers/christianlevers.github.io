@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Completed projects on Christian Levers Research</title>
+    <link>/tags/completed-projects/</link>
+    <description>Recent content in Completed projects on Christian Levers Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018 Christian Levers</copyright>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/completed-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HERCULES</title>
+      <link>/project/hercules/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/hercules/</guid>
+      <description>VOLANTE aims to develop a new European land management paradigm, providing an integrated conceptual and operational platform which allows policy makers to develop pro-active and context-sensitive solutions to the challenges for the future, rather than to react on largely autonomous external land systems developments. Objective of VOLANTE is to provide European policy and land management with critical pathways defining the band width of possible land management policies for future European land use.</description>
+    </item>
+    
+    <item>
+      <title>VOLANTE</title>
+      <link>/project/volante/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/volante/</guid>
+      <description>VOLANTE aims to develop a new European land management paradigm, providing an integrated conceptual and operational platform which allows policy makers to develop pro-active and context-sensitive solutions to the challenges for the future, rather than to react on largely autonomous external land systems developments. Objective of VOLANTE is to provide European policy and land management with critical pathways defining the band width of possible land management policies for future European land use.</description>
+    </item>
+    
+  </channel>
+</rss>

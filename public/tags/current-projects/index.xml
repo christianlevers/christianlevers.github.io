@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current projects on Christian Levers Research</title>
+    <link>/tags/current-projects/</link>
+    <description>Recent content in Current projects on Christian Levers Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2018 Christian Levers</copyright>
+    <lastBuildDate>Sun, 16 Sep 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/current-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FFSize (PI)</title>
+      <link>/project/ffsize/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/project/ffsize/</guid>
+      <description>Why farm and field size matters: Exploring their role for food security and sustainable agriculture in South America
+The project is funded through the European Union&amp;rsquo;s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 796451.
+For news on the project, please have a look at the blog using the &amp;ldquo;FFSize&amp;rdquo; filter. Summary
+Agriculture is the dominant land use on Earth, covering approximately one third of its terrestrial surface, and crucial for sustaining human life by providing food, feed, and bioenergy.</description>
+    </item>
+    
+  </channel>
+</rss>
