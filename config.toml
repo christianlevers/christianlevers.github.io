@@ -256,6 +256,11 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
+  name = ""
+  url = "#hero"
+  weight = 0
+  
+[[menu.main]]
   name = "Home"
   url = "#about"
   weight = 1
